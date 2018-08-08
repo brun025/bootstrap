@@ -1,0 +1,2 @@
+# bootstrap
+Comandos básicos bootstrap
